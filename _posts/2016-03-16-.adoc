@@ -1,0 +1,52 @@
+= タイトル
+
+:hp-tags: test
+
+## this is hubpress
+
+**強調**
+
+* リスト1  
+
+**あいうえお**
+
+*** あいうえお
+
+* リスト1
+* リスト1
+* リスト1
+
+. リスト2
+.. リスト2
+... リスト2
+. リスト2
+
+**強調**
+
+
+[やほお](http://yahoo.co.jp)
+
+http://yahoo.co.jp
+
+
+```ruby:qiita.rb
+puts 'The best way to log and share programmers knowledge.'
+```
+
+`puts 'Qiita'` はプログラマのための技術情報共有サービスです。
+
+
+
+CPU:: The brain of the computer.
+Hard drive:: Permanent storage for operating system and/or user files.
+RAM:: Temporarily stores information the CPU uses during operation.
+
+
+
+[horizontal]
+CPU:: The brain of the computer.
+Hard drive:: Permanent storage for operating system and/or user files.
+RAM:: Temporarily stores information the CPU uses during operation.
+Keyboard:: Used to enter text or control items on the screen.
+Mouse:: Used to point to and select items on your computer screen.
+Monitor:: Displays information in visual form using text and graphics.
