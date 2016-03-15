@@ -50,3 +50,42 @@ RAM:: Temporarily stores information the CPU uses during operation.
 Keyboard:: Used to enter text or control items on the screen.
 Mouse:: Used to point to and select items on your computer screen.
 Monitor:: Displays information in visual form using text and graphics.
+
+----
+if (ture) {
+  
+}
+----
+
+////
+comment
+////
+
+====
+example
+====
+
+....
+literal
+....
+
+
+****
+sidebar
+****
+
+|===
+|table|aaa|bbb|ccc|
+|table|aaa|bbb|ccc|
+|table|aaa|bbb|ccc|
+|===
+
+
+[source,ruby]
+----
+require 'asciidoctor'  # <1>
+
+puts Asciidoctor.convert_file('sample.adoc', :header_footer => true)  # <2>
+----
+<1> Imports the library
+<2> Reads, parses and renders the file
