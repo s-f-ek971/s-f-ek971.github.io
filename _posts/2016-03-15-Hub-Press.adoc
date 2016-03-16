@@ -4,7 +4,7 @@
 
 ## HubPress とは
 
-GitHubのGitHub Pagesで簡単にブログが構築できるしくみ
+GitHub Pagesで簡単にブログが構築できるしくみ
 
 https://github.com/HubPress/hubpress.io
 
@@ -24,9 +24,9 @@ https://github.com/HubPress/hubpress.io
 **投稿**
 
 
-* http://<ユーザーID>.github.io/hubpress/
+* http://s-f-ek971.github.io/hubpress/
 
 
 **確認**
 
-* http://<ユーザーID>.github.io/
+* http://s-f-ek971.github.io/
