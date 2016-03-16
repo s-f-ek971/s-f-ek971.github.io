@@ -24,7 +24,7 @@
 **強調**
 
 
-[やほお](http://yahoo.co.jp)
+http://yahoo.co.jp[やほお]
 
 http://yahoo.co.jp
 
